@@ -81,9 +81,11 @@
         </nav>
     </header>
     <main>
-        <section id="about">
+        
+               <section id="about">
             <h2>About Me</h2>
-            <p>I am Abid, a Software Engineer Mobile App Developer, Game Developer, and DevOps enthusiast...</p>
+            <img class="profile-img" src="${pageContext.request.contextPath}/resources/images/NewProfile.jpg" alt="Profile Picture">
+            <p>I am Abid, a Software Engineer, Game Developer, and Flutter enthusiast...</p>
         </section>
         <section id="skills">
             <h2>Skills</h2>
