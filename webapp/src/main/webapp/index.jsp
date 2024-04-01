@@ -71,7 +71,7 @@
     margin: 0 auto 20px auto;
     width: 200px; /* Set the desired width */
     height: auto; /* Maintain aspect ratio */
-    border-radius: 50%; /* Make the image round */
+    border-radius: 10%; /* Make the image round */
 }
 
     </style>
