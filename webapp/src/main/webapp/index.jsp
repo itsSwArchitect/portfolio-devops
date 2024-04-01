@@ -1,37 +1,56 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
-     
-    <label for="Fist and Last Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-    <br>
-    
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-    <br>
-
-    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
-    <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-
-   <h1> Thankyou, Happy Learning </h1>
-
-  
-</form>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abid Ali - Portfolio</title>
+    <style>
+        /* Add your CSS styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abid Ali</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#interests">Interests</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am Abid, a Software Engineer, Game Developer, and Flutter enthusiast...</p>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <p>
+                <strong>Languages:</strong> Java, C#, Dart, Python, C/C++<br>
+                <strong>Frameworks/Tools:</strong> Java Spring Boot, Jenkins, Docker, Rancher, AWS<br>
+                <strong>Specializations:</strong> Game Development, Mobile App Development, NLP, Deep Learning
+            </p>
+        </section>
+        <section id="experience">
+            <h2>Experience</h2>
+            <p>
+                <strong>Education:</strong> MSc in Computer Software Engineering from UET Mardan<br>
+                <strong>Research:</strong> NLP and Deep Learning<br>
+                <strong>Professional:</strong> Game Development Trainer at KPITB<br>
+            </p>
+        </section>
+        <section id="interests">
+            <h2>Interests</h2>
+            <p>
+                My current zone of interest lies in exploring and creating innovative experiences within Digital Second Life...
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Abid Ali - All Rights Reserved</p>
+    </footer>
+</body>
+</html>
