@@ -38,6 +38,8 @@
         
         main {
             padding: 20px;
+            margin-bottom: 100px; /* Adjust according to footer height */
+            overflow-y: auto; /* Make content scrollable */
         }
         
         section {
@@ -59,9 +61,10 @@
             color: #fff;
             text-align: center;
             padding: 20px;
-            position: fixed;
             width: 100%;
+            position: fixed;
             bottom: 0;
+            left: 0;
         }
     </style>
 </head>
@@ -80,7 +83,7 @@
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>I am Abid, a Software Engineer Mobile Application Developer, Game Developer, and DevOps enthusiast...</p>
+            <p>I am Abid, a Software Engineer Mobile App Developer, Game Developer, and DevOps enthusiast...</p>
         </section>
         <section id="skills">
             <h2>Skills</h2>
