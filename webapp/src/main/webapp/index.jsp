@@ -104,7 +104,7 @@
         <section id="interests">
             <h2>Interests</h2>
             <p>
-                My current zone of interest lies in exploring and creating innovative experiences within Digital Second Life...
+                My current zone of interest lies in exploring and creating innovative experiences within Deep Learning, DevOps, Mobile App Development  Digital Second Life...
             </p>
         </section>
     </main>
