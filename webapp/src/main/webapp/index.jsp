@@ -66,6 +66,14 @@
             bottom: 0;
             left: 0;
         }
+        .profile-img {
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 200px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Make the image round */
+}
+
     </style>
 </head>
 <body>
