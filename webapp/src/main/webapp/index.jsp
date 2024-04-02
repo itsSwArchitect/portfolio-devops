@@ -93,7 +93,7 @@
                <section id="about">
             <h2>About Me</h2>
             <img class="profile-img" src="${pageContext.request.contextPath}/resources/images/NewProfile.jpg" alt="Profile Picture">
-            <p>I am Abid, a Software Engineer, Game Developer, and Flutter enthusiast...</p>
+            <p>I am Abid Ali, a Software Engineer, Game Developer, and Flutter enthusiast...</p>
         </section>
         <section id="skills">
             <h2>Skills</h2>
@@ -119,7 +119,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Abid Ali - All Rights Reserved</p>
+        <p>&copy; 2024 - All Rights Reserved</p>
     </footer>
 </body>
 </html>
