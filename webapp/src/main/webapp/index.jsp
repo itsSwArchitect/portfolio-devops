@@ -93,7 +93,7 @@
                <section id="about">
             <h2>About Me</h2>
             <img class="profile-img" src="${pageContext.request.contextPath}/resources/images/NewProfile.jpg" alt="Profile Picture">
-            <p>I am Abid Ali, a Software Engineer, Game Developer, and Flutter enthusiast...</p>
+            <p>I am Abid Ali, a Software Engineer, Game Developer, and DevOps enthusiast...</p>
         </section>
         <section id="skills">
             <h2>Skills</h2>
