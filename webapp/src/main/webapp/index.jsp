@@ -119,7 +119,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 - All Rights Reserved</p>
+        <p>&copy; 2024 v1 - All Rights Reserved</p>
     </footer>
 </body>
 </html>
