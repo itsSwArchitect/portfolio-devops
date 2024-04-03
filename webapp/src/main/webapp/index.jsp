@@ -82,6 +82,7 @@
         <nav>
             <ul>
                 <li><a href="#about">About Me</a></li>
+                <li><a href="#education">Education</a></li>
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#interests">Interests</a></li>
@@ -94,6 +95,12 @@
             <h2>About Me</h2>
             <img class="profile-img" src="${pageContext.request.contextPath}/resources/images/NewProfile.jpg" alt="Profile Picture">
             <p>I am Abid Ali, a Software Engineer, Game Developer, and DevOps enthusiast...</p>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <p>
+                <strong>Education:</strong> MSc Computer Software Engineering<br>
+            </p>
         </section>
         <section id="skills">
             <h2>Skills</h2>
