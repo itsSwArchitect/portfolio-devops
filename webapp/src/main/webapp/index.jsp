@@ -98,6 +98,7 @@
         <section id="skills">
             <h2>Skills</h2>
             <p>
+                <strong>Education:</strong> MSc Computer Software Engineering<br>
                 <strong>Languages:</strong> Java, C#, Dart, Python, C/C++<br>
                 <strong>Frameworks/Tools:</strong> Java Spring Boot, Jenkins, Docker, Rancher, AWS<br>
                 <strong>Specializations:</strong> Game Development, Mobile App Development, NLP, Deep Learning
