@@ -116,7 +116,7 @@
             <p>
                 <strong>Education:</strong> MSc in Computer Software Engineering from UET Mardan<br>
                 <strong>Research:</strong> NLP and Deep Learning<br>
-                <strong>Professional:</strong>Mobile App Developer, Unity3D Game Developer, Devops Engineer & Game Development Trainer at KPITB<br>
+                <strong>Professional:</strong> Mobile App Developer, Unity3D Game Developer, DevOps Engineer & Game Development Trainer at KPITB<br>
             </p>
         </section>
         <section id="interests">
