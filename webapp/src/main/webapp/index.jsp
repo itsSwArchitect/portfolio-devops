@@ -94,7 +94,7 @@
                <section id="about">
             <h2>About Me</h2>
             <img class="profile-img" src="${pageContext.request.contextPath}/resources/images/NewProfile.jpg" alt="Profile Picture">
-            <p>I am Abid Ali, a Software Engineer, Game Developer, and DevOps enthusiast...</p>
+            <p>MSc in Computer Software Engineering. Experienced DevOps Engineer and proficient in Native & Flutter Mobile App Development served as an Instructor of Advanced Game Development at (KPITB) as part of its flagship initiative, Advance Coding under KPYEP by Aptechmedia. Passionate about crafting immersive experiences across platforms. Enthusiastic ML and NLP researcher with a focus on leveraging cutting-edge technologies to drive innovation in software development. Proficient in DevOps methodologies for seamless integration and deployment processes. Experienced in Agile methodologies for iterative and collaborative software development.</p>
         </section>
         <section id="education">
             <h2>Education</h2>
