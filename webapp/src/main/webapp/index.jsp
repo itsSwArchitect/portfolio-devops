@@ -127,7 +127,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 V3.0 - All Rights Reserved</p>
+        <p>&copy; 2024 V1.0 - All Rights Reserved</p>
     </footer>
 </body>
 </html>
