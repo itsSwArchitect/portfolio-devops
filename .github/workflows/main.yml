@@ -1,4 +1,4 @@
-name: Java CI/CD with Maven and Tomcat
+name: Java CI with Maven
 
 on:
   push:
@@ -32,12 +32,3 @@ jobs:
 
     - name: Build with Maven
       run: mvn clean install
-
-    - name: Deploy to Tomcat
-      env:
-        TOMCAT_HOST: ${{ secrets.TOMCAT_HOST }}
-        TOMCAT_USERNAME: ${{ secrets.TOMCAT_USERNAME }}
-        TOMCAT_PASSWORD: ${{ secrets.TOMCAT_PASSWORD }}
-      run: |
-        mvn package
-        scp target/your-app.war $TOMCAT_USERNAME@$TOMCAT_HOST:/path/to/tomcat/webapps/
